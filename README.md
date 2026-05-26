@@ -9,8 +9,6 @@ This GUI-focused version is based on the open-source project [abatsakidis/PDFDeS
 ```text
 .
 |-- src/PDFDeSecure/        # WinForms source project
-|-- samples/                # Small sample PDFs
-|-- docs/screenshots/       # Screenshots and issue images
 |-- artifacts/              # Local test files and generated PDFs (ignored)
 |-- dist/                   # Local published executable package (ignored)
 |-- PDFDeSecure.sln
