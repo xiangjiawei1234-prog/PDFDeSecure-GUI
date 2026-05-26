@@ -1,0 +1,7 @@
+PDFDeSecure GUI version
+
+This project is based on the open-source PDFDeSecure project by Athanasios Batsakidis:
+https://github.com/abatsakidis/PDFDeSecure
+
+The original project README identifies the license as MIT License (c) Athanasios Batsakidis.
+This repository keeps the same MIT license and adds GUI-focused packaging and project layout changes.
